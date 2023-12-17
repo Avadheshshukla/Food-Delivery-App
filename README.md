@@ -16,6 +16,7 @@
  ## Overview
    <p>🔸This is simple Food Delivery App built using Spring Boot framework. The idea was to build a simple Food Delivery App to perform basic CRUD operations                  with some validations and auhentication.
    </p>
+   
 ## :one: Frameworks and Languages Used -
     1. SpringBoot
     2. JAVA-17
