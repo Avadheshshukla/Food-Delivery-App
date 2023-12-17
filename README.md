@@ -1,5 +1,4 @@
-# <h1 align = "center"> Online Food Delivery ![FoodGIF](https://github.com/Avadheshshukla/Food-Delivery-App/assets/87807125/1440d4a8-e1f8-4658-a117-a05dd668b9dd)
- </h1>
+# <h1 align = "center"> 🧑‍💻Online Food Delivery👌 </h1>
 <p align="center">
 <a href="Java url">
     <img alt="Java" src="https://img.shields.io/badge/Java->=8-darkblue.svg" />
