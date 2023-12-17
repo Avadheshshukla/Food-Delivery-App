@@ -1,5 +1,4 @@
-# <h1 align = "center"> Online Food Delivery![FoodGIF (2)](https://github.com/Avadheshshukla/Food-Delivery-App/assets/87807125/abeb3602-33bb-4574-82e4-05180fb789ae)
-![FoodGIF](https://github.com/Avadheshshukla/Food-Delivery-App/assets/87807125/1440d4a8-e1f8-4658-a117-a05dd668b9dd)
+# <h1 align = "center"> Online Food Delivery ![FoodGIF](https://github.com/Avadheshshukla/Food-Delivery-App/assets/87807125/1440d4a8-e1f8-4658-a117-a05dd668b9dd)
  </h1>
 <p align="center">
 <a href="Java url">
