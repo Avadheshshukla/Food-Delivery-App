@@ -140,4 +140,18 @@ Admin & User Controller![Screenshot_10](https://github.com/DeepakKDEV/FoodDelive
 -  :small_orange_diamond: The API is built using mySQL database to store the Food Delivery ,ingredients and all its fields . IP Address of the deployment link must be static to ensure its availability. Additionally , the Api's uses annotation based validations to ensure that all the user inputs are valid before being processed.
 -  :small_orange_diamond: Therefore , this project provides a scalable and secure API that allows to manage all the datas.
 
-             
+
+
+ <!-- Acknowledgments -->
+## Acknowledgments
+- Thank you to the Spring Boot and Java communities for providing excellent tools and resources.
+
+<!-- Contact -->
+## Contact📲
+For questions or feedback, please contact : Avadhesh Shukla👍
+- Maild Id 📧: avadheshsukla1636@gmail.com
+
+<h1 align="center">Thank You💖...<h1>
+<h3 align = "center"> ***********************************************************<h3>
+
+
